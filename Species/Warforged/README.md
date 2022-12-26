@@ -4,4 +4,4 @@
 
 ## Documents
 
-- [Lore](Lore.md)
+- [Warforged](Warforged.md)

@@ -1,6 +1,7 @@
 # Events
 
 ## Categories
-- [Solicte](./Solicte/README.md)
+
+- [Solstice](./Solstice/README.md)
 
 ## Documents

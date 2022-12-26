@@ -1,7 +1,7 @@
-# Solicte
+# Solstice
 
 ## Categories
 
-
 ## Documents
-- [Solicte](Solicte.md)
+
+- [Solstice](Solstice.md)

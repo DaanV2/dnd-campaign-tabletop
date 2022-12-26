@@ -1,7 +1,7 @@
-# Aasmir
+# Aasimar
 
 ## Categories
 
-
 ## Documents
-- [Aasmir](Aasmir.md)
+
+- [Aasimar](Aasimar.md)

@@ -2,7 +2,7 @@
 
 ## Categories
 
-
 ## Documents
-- [Olde Thorass](Olde%20Thorass.md)
+
+- [Old Thorass](Old%20Thorass.md)
 - [Thorass](Thorass.md)

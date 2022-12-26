@@ -1,6 +1,7 @@
 # Locations
 
 ## Categories
+
 - [Demiplanes](./Demiplanes/README.md)
 - [Inner planes](./Inner%20planes/README.md)
 - [Material Plane](./Material%20Plane/README.md)
@@ -10,4 +11,5 @@
 - [Transitive Planes](./Transitive%20Planes/README.md)
 
 ## Documents
+
 - [Planes](Planes.md)
