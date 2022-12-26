@@ -3,7 +3,7 @@
 # Common
 
 Download Font: [Olde Thorass](https://www.google.com/search?q=Olde+Thorass)
-Then use font Thorass
+Then use font [Thorass](Old%20Thorass.md)
 
 <div style="overflow-x:auto;">
 <style type="text/css">
