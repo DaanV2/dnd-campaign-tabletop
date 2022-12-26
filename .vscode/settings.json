@@ -1,0 +1,22 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "off",
+    "editor.suggest.preview": true,
+    "editor.codeLens": true,
+    "files.encoding": "utf8",
+    "files.trimTrailingWhitespace": false
+  },
+
+  "json.schemas": [
+    {
+      "fileMatch": ["**/.tags/*.json"],
+      "url": "./.vscode/schemas/tags.json"
+    }
+  ]
+}

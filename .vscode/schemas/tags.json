@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "array",
+  "title": "Tags",
+  "items": {
+    "title": "Tag",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "tag": {
+        "type": "string",
+        "title": "Tag",
+        "description": "The tag name",
+        "default": "$TM_FILENAME"
+      },
+      "url": {
+        "type": "string",
+        "title": "URL",
+        "description": "URL to the tag",
+        "default": "$TM_FILEPATH"
+      },
+      "search": {
+        "type": "string",
+        "title": "Search",
+        "description": "Regex to search for in the file",
+        "default": "$TM_FILENAME"
+      }
+    }
+  }
+}
