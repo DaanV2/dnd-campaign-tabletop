@@ -2,6 +2,6 @@
 
 ## Categories
 
-## Documents
 
+## Documents
 - [Random Npcs](Random%20Npcs.md)

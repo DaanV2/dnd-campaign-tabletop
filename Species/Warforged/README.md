@@ -2,6 +2,6 @@
 
 ## Categories
 
-## Documents
 
+## Documents
 - [Warforged](Warforged.md)
