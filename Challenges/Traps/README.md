@@ -1,0 +1,6 @@
+# Traps
+
+## Categories
+
+## Documents
+

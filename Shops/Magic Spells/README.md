@@ -1,0 +1,5 @@
+# Magic Spells
+
+## Categories
+
+## Documents

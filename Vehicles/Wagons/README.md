@@ -1,0 +1,5 @@
+# Wagons
+
+## Categories
+
+## Documents
