@@ -38,14 +38,14 @@ jobs:
         uses: DaanV2/Markdown-Linker@latest
         with:
           ignore: |
-            README.md          
+            README.md
 
       - name: 📖 Commit changes
         continue-on-error: true
         run: |
           cd $GITHUB_WORKSPACE
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "actions[Bot]"
+          git config --global user.email "github-action@github.com"
+          git config --global user.name "Tasha"
           git add .
           git commit -m "auto: 📑 Applied linking ${{ steps.time.outputs.time }}"
 
@@ -63,6 +63,6 @@ jobs:
           git add .
           git commit -m "auto: 📓 Generated Readme ${{ steps.time.outputs.time }}"
 
-      - name: 🚚 Push 
+      - name: 🚚 Push
         continue-on-error: true
         run: git push
