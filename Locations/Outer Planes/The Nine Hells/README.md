@@ -1,7 +1,6 @@
 # The Nine Hells
 
 ## Categories
-
 - [1. Avernus](./1.%20Avernus/README.md)
 - [2. Dis](./2.%20Dis/README.md)
 - [3. Minauros](./3.%20Minauros/README.md)
@@ -13,5 +12,4 @@
 - [9. Nessus](./9.%20Nessus/README.md)
 
 ## Documents
-
 - [The Nine Hells](The%20Nine%20Hells.md)

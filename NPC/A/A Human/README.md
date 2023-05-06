@@ -2,6 +2,6 @@
 
 ## Categories
 
-## Documents
 
+## Documents
 - [A Human](A%20Human.md)
