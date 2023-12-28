@@ -1,5 +1,6 @@
 # Locations
 
+
 ## Categories
 - [Demiplanes](./Demiplanes/README.md)
 - [Inner planes](./Inner%20planes/README.md)
