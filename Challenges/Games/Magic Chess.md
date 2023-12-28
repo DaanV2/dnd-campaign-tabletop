@@ -27,7 +27,7 @@ and buff do not disappear on their own
 | Persuasion    | Boost your pieces confidence into working harder, or demoralize the enemy pieces. roll a persuasion check with the DC being the other player's roll.<br/>If successful, either: add a buff of +5 to yourself or a debuff of +5 to your enemy which will activate next round.<br/> On rolling a 1, add -5 to your roll     |
 | Deception     | Boost your pieces confidence into working harder, or demoralize the enemy pieces. roll a persuasion check with the DC being the other player's roll.<br/>If successful, either: add a buff of +5 to yourself or a debuff of +5 to your enemy which will activate the next round.<br/> On rolling a 1, add -5 to your roll |
 
-**Win** A player wins if:
+**Win** [A player](../../Players/A%20Player.md) wins if:
 
 - Has reached a score of 10
 - The other player surrendered

@@ -16,7 +16,7 @@ other fuel, raised to a certain temperature.
 
 **Potential calcination** is brought about by potential fire, such as corrosive
 chemicals; for example, gold was calcined in a reverberatory furnace with
-mercury and salammoniac; silver with common salt and alkali salt; copper with
+mercury and salammoniac; silver with [common](../../Languages/Common/Old%20Thorass.md) salt and alkali salt; copper with
 salt and sulfur; iron with sal ammoniac and vinegar; tin with antimony; lead
 with sulfur; and mercury with nitric acid.
 
