@@ -16,5 +16,11 @@
     "body": ["<iframe src=\"$CLIPBOARD\" width=\"100%\" height=\"300\"></iframe>"],
     "description": "iframe",
     "scope": "markdown"
+  },
+  "image_clipboard": {
+    "prefix": "image clipboard",
+    "body": ["<img src=\"$CLIPBOARD\" width=\"40%\"/>"],
+    "description": "iframe",
+    "scope": "markdown"
   }
 }

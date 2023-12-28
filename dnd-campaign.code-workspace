@@ -3,13 +3,5 @@
     {
       "path": "."
     }
-  ],
-  "settings": {
-    "grammarly.selectors": [
-      {
-        "language": "markdown",
-        "scheme": "file"
-      }
-    ]
-  }
+  ]
 }

@@ -3,6 +3,11 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
 
+  "markdown.preview.doubleClickToSwitchToEditor": true,
+  "markdown.validate.fileLinks.enabled": "error",
+  "markdown.validate.unusedLinkDefinitions.enabled": "error",
+  "markdown.validate.enabled": true,
+
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
@@ -18,5 +23,7 @@
       "fileMatch": ["**/.tags/*.json"],
       "url": "./.vscode/schemas/tags.json"
     }
-  ]
+  ],
+
+  "prettier.proseWrap": "always"
 }

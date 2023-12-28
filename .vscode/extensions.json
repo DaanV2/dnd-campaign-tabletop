@@ -1,3 +1,7 @@
 {
-  "recommendations": ["yzhang.markdown-all-in-one", "esbenp.prettier-vscode", "vscode-icons-team.vscode-icons"]
+  "recommendations": [
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons"
+  ]
 }

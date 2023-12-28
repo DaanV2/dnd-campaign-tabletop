@@ -6,6 +6,8 @@ name: 🔨 Auto Generating Tasks
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
+    paths:
+      - "**.md"
     branches: [main]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -25,11 +27,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: 📦 Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: ⌛ Get Time
         id: time
-        uses: nanzm/get-time-action@v1.1
+        uses: nanzm/get-time-action@v2.0
         with:
           timeZone: 8
           format: "YYYY-MM-DD"
@@ -51,7 +53,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: 📓 Create Readmes
-        uses: DaanV2/Markdown-Action-Create-Indexes@v1.7.0
+        uses: DaanV2/Markdown-Action-Create-Indexes@v3.0.0
         with:
           folder: ${{github.workspace}}
           filename: README.md
